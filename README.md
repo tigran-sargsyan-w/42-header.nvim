@@ -13,8 +13,7 @@ This plugin is whole re-write of [42header](https://github.com/42Paris/42header)
 
 ## 🛠️ Setup
 
-<details>
-  <summary>📦 Packer.nvim</summary>
+### 📦 Packer.nvim
 
 ```lua
 use {
@@ -32,10 +31,7 @@ use {
 }
 ```
 
-</details>
-
-<details>
-  <summary>😴 Lazy.nvim</summary>
+### 😴 Lazy.nvim
 
 ```lua
 {
